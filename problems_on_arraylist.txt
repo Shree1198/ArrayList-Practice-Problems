@@ -1,0 +1,59 @@
+Problem 1: Removing Even Numbers
+Write a Java program to create an ArrayList of integers. Remove all even numbers from the list and print the updated list.
+
+Problem 2: Finding Duplicates
+Write a Java program to find and print all duplicate elements in an ArrayList of Strings.
+
+Problem 3: Sorting Elements
+Write a Java program to sort an ArrayList of integers in ascending order without using the Collections.sort() method.
+
+Problem 4: Merging Lists
+Write a Java program to merge two ArrayLists of integers into a single ArrayList and print the merged list.
+
+Problem 5: Reversing Elements
+Write a Java program to reverse the elements of an ArrayList of Strings without using Collections.reverse().
+
+Problem 6: Removing Specific Element
+Write a Java program to create an ArrayList of strings. Remove a specific element from the list and print the updated list.
+
+Problem 7: Finding Maximum and Minimum
+Write a Java program to find the maximum and minimum elements in an ArrayList of integers.
+
+Problem 8: Summing Elements
+Write a Java program to calculate the sum of all elements in an ArrayList of doubles.
+
+Problem 9: Inserting at a Specific Index
+Write a Java program to insert an element at a specific index in an ArrayList of characters.
+
+Problem 10: Counting Occurrences
+Write a Java program to count the occurrences of a specific element in an ArrayList of booleans.
+
+Problem 11: Sublist Extraction
+Write a Java program to extract a sublist from an ArrayList of integers, starting from index 2 to index 5, inclusive.
+
+Problem 12: Union of Lists
+Write a Java program to find the union (unique elements from both lists) of two ArrayLists of integers and print the result.
+
+Problem 13: Intersection of Lists
+Write a Java program to find the intersection (common elements) of two ArrayLists of integers and print the result.
+
+Problem 14: Check Palindrome
+Write a Java program to check if an ArrayList of strings is a palindrome (reads the same forward and backward).
+
+Problem 15: Shuffling Elements
+Write a Java program to shuffle the elements of an ArrayList of integers.
+
+Problem 16: Finding Index of Element
+Write a Java program to find the index of a specific element in an ArrayList of doubles.
+
+Problem 17: Remove Duplicates
+Write a Java program to remove all duplicate elements from an ArrayList of characters.
+
+Problem 18: Check Subset
+Write a Java program to check if one ArrayList is a subset of another ArrayList of integers.
+
+Problem 19: Replace Elements
+Write a Java program to replace all occurrences of a specific element with another element in an ArrayList of strings.
+
+Problem 20: Splitting Elements
+Write a Java program to split an ArrayList of strings into two separate ArrayLists, one containing even-length strings and the other containing odd-length strings.
